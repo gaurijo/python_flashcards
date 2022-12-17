@@ -5,8 +5,8 @@ class Card():
     self.answer = answer 
     self.category = category 
 
-card = Card("What is the tallest Mountain on Earth?", "Everest", "Geography")
+# card = Card("What is the tallest Mountain on Earth?", "Everest", "Geography")
 
-print(card.question)
-print(card.answer)
-print(card.category)
+# print(card.question)
+# print(card.answer)
+# print(card.category)
